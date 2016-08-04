@@ -1,0 +1,27 @@
+_repo: Richard-Carvel---Volume-08_5372
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Churchill, Winston
+    birthdate: 1871
+    deathdate: 1947
+    gutenberg_agent_id: '213'
+    url: http://www.gutenberg.org/2009/agents/213
+    wikipedia: http://en.wikipedia.org/wiki/Winston_Churchill_(novelist)
+description: ''
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2004-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5372'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Fiction'
+- !lcsh 'Maryland -- History -- Fiction'
+- GITenberg
+title: Richard Carvel — Volume 08
+url: http://www.gutenberg.org/ebooks/5372
